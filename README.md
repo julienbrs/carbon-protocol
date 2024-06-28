@@ -130,6 +130,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/rmzlb"><img src="https://avatars.githubusercontent.com/u/25151724?v=4?s=100" width="100px;" alt="rmzlb"/><br /><sub><b>rmzlb</b></sub></a><br /><a href="https://github.com/Carbonable/carbon-protocol/commits?author=rmzlb" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/cloudvenger"><img src="https://avatars.githubusercontent.com/u/3840436?v=4?s=100" width="100px;" alt="Arn0d"/><br /><sub><b>Arn0d</b></sub></a><br /><a href="https://github.com/Carbonable/carbon-protocol/commits?author=cloudvenger" title="Code">💻</a></td>
     </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/raizo07"><img src="https://avatars.githubusercontent.com/u/81079370?v=4?s=100" width="100px;" alt="Wolf"/><br /><sub><b>Wolf</b></sub></a><br /><a href="https://github.com/carbonable-labs/carbon-protocol-v3/issues?q=author%3Araizo07" title="Bug reports">🐛</a></td>
+    </tr>
   </tbody>
 </table>
 
